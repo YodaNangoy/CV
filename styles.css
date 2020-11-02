@@ -3,7 +3,7 @@ h1:hover{
     background-color: darkred;
 }
 body{
-    background: linear-gradient(to bottom, red,darkslategray , #798682, #167792 );
+    background: linear-gradient(to bottom, red, #798682, #167792 );
     color: white;
 }
 div.nav-fixed{
@@ -43,5 +43,8 @@ nav{
     body{
         font-size: 5rem;
     }
+}
+href{
+    color: gold;
 }
 
